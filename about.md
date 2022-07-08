@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: about
-permalink: /default/
+permalink: /about/
 ---
 
 # アバウト
