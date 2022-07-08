@@ -2,9 +2,10 @@
 layout: default
 title: サランラップの裏側
 ---
+# サランラップの裏側
 
+![画像](/assets/img/20200802.jpg) 
 
-# githubpages
 ## 2022/7/8
 本文  
 これは本文  
