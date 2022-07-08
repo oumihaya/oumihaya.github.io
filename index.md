@@ -1,6 +1,6 @@
 ---
-layout: layout
-title: トップページ
+layout: default
+title: サランラップの裏側
 ---
 
 
