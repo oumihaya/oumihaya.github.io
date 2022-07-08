@@ -8,10 +8,10 @@
   <body>
     {% for page in site.pages %}
     {% if page.layout == 'page' %}
-    <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.link_title }}</a>
+    <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
     {% endif %}
     {% endfor %}
-    
+
     {{content}}
     {% for post in site.posts %}
     <h2>{{ post.date | date: "%Y%m%d" }}</h2>
